@@ -21,6 +21,10 @@
 - 📂 Sistema com categorias e banco de dados
 
 ---
+## ✨Experiencia
+- 🎨 Disign
+
+---
 
 ## 🎯 Objetivo
 Desenvolver minhas habilidades em programação e construir um portfólio sólido para oportunidades acadêmicas e profissionais.
