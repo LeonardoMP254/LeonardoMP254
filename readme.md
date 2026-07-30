@@ -6,9 +6,21 @@ Me chamo Leonardo, tenho 18 anos e sou de Santo André, São Paulo - SP. Termina
 Técnico em Desenvolvimento de Sistemas. Aprendendo JavaScript, PHP e Banco de Dados. Em busca de evoluir e criar projetos cada vez melhores. Também aprendendo Edição de vídeos e Motion Design com After Effect e Affinity.
 
 <p align="left">
+    
+---
 
 </p>
 
+
+
+### 🌐 Redes Sociais:	
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardoalvesleao144@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-a-le%C3%A3o-19a73b352/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/multiplay03?igsh=Nm5haWtwY3V3d2Fk)
+
+
+
+        
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -64,6 +76,7 @@ Técnico em Desenvolvimento de Sistemas. Aprendendo JavaScript, PHP e Banco de D
 />
 
 
+
 <img 
     align="left" 
     alt="PHP" 
@@ -72,6 +85,11 @@ Técnico em Desenvolvimento de Sistemas. Aprendendo JavaScript, PHP e Banco de D
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
-
 <br/>
+
+---
+ <img
+    src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dist/github-jet.svg"
+    alt="GitHub Jet Heatmap"
+    width="100%"
+  />
